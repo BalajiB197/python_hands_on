@@ -1,4 +1,4 @@
-__and__ - check wether one of the input is zero and return false 
+__and__ - check wether one of the input is zero and return false   
 __or__ - check wether one of the input is not an zero and return True 
 __repr__ - represent the calculated value 
 __str__ - represent the calculated value 
